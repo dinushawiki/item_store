@@ -1,0 +1,101 @@
+Date,Store,Item,Retail Price,Promo Type,Promo Price,Notes
+2025-01-12,202,Avocado,$3.63,None,N/A,"Standard pricing, no promotions"
+2025-01-27,203,Apple,$2.96,App Discount,$1.78,40% off with app
+2025-01-15,201,Banana,$1.45,None,N/A,"Standard pricing, no promotions"
+2025-01-23,200,Banana,$0.57,None,N/A,"Standard pricing, no promotions"
+2025-01-16,202,Apple,$1.16,App Discount,$0.70,40% off with app
+2025-01-23,200,Avocado,$2.20,Loyalty Discount,$1.98,$ off for loyalty members
+2025-01-13,201,Avocado,$2.50,None,N/A,"Standard pricing, no promotions"
+2025-01-27,202,Apple,$4.61,None,N/A,"Standard pricing, no promotions"
+2025-01-13,201,Banana,$4.36,Loyalty Discount,$3.92,$ off for loyalty members
+2025-01-15,203,Pineapple,$4.07,BOGO,$2.04,"Buy one get one free, effective price per unit"
+2025-01-06,202,Orange,$1.51,App Discount,$0.91,40% off with app
+2025-01-07,200,Pineapple,$3.09,App Discount,$1.85,40% off with app
+2025-01-22,202,Apple,$3.38,Loyalty Discount,$3.04,$ off for loyalty members
+2025-01-12,200,Apple,$3.28,App Discount,$1.97,40% off with app
+2025-01-15,202,Banana,$4.45,Loyalty Discount,$4.00,$ off for loyalty members
+2025-01-11,201,Pineapple,$1.15,Loyalty Discount,$1.03,$ off for loyalty members
+2025-01-08,203,Orange,$2.37,BOGO,$1.19,"Buy one get one free, effective price per unit"
+2025-01-14,201,Avocado,$2.70,None,N/A,"Standard pricing, no promotions"
+2025-01-27,200,Banana,$1.20,Loyalty Discount,$1.08,$ off for loyalty members
+2025-01-27,200,Apple,$4.56,Loyalty Discount,$4.10,$ off for loyalty members
+2025-01-19,202,Banana,$1.43,None,N/A,"Standard pricing, no promotions"
+2025-01-16,201,Apple,$2.90,None,N/A,"Standard pricing, no promotions"
+2025-01-11,203,Avocado,$3.36,App Discount,$2.02,40% off with app
+2025-01-21,203,Pineapple,$2.60,BOGO,$1.30,"Buy one get one free, effective price per unit"
+2025-01-08,200,Avocado,$2.49,App Discount,$1.49,40% off with app
+2025-01-17,202,Apple,$2.83,Loyalty Discount,$2.55,$ off for loyalty members
+2025-01-20,203,Orange,$4.07,None,N/A,"Standard pricing, no promotions"
+2025-01-17,201,Avocado,$0.87,None,N/A,"Standard pricing, no promotions"
+2025-01-25,203,Banana,$4.92,Loyalty Discount,$4.43,$ off for loyalty members
+2025-01-31,202,Banana,$3.10,BOGO,$1.55,"Buy one get one free, effective price per unit"
+2025-01-10,200,Orange,$4.97,BOGO,$2.48,"Buy one get one free, effective price per unit"
+2025-01-10,202,Banana,$2.63,BOGO,$1.31,"Buy one get one free, effective price per unit"
+2025-01-27,202,Pineapple,$1.44,Loyalty Discount,$1.30,$ off for loyalty members
+2025-01-23,202,Banana,$3.26,BOGO,$1.63,"Buy one get one free, effective price per unit"
+2025-01-26,200,Avocado,$1.52,App Discount,$0.91,40% off with app
+2025-01-07,202,Avocado,$1.97,Loyalty Discount,$1.77,$ off for loyalty members
+2025-01-04,203,Pineapple,$3.05,App Discount,$1.83,40% off with app
+2025-01-22,200,Avocado,$4.00,BOGO,$2.00,"Buy one get one free, effective price per unit"
+2025-01-07,201,Avocado,$1.56,None,N/A,"Standard pricing, no promotions"
+2025-01-13,200,Apple,$0.59,Loyalty Discount,$0.53,$ off for loyalty members
+2025-01-21,203,Apple,$1.34,None,N/A,"Standard pricing, no promotions"
+2025-01-03,202,Orange,$3.24,None,N/A,"Standard pricing, no promotions"
+2025-01-23,200,Pineapple,$2.08,App Discount,$1.25,40% off with app
+2025-01-10,201,Apple,$2.11,BOGO,$1.05,"Buy one get one free, effective price per unit"
+2025-01-06,202,Pineapple,$4.02,BOGO,$2.01,"Buy one get one free, effective price per unit"
+2025-01-06,203,Banana,$1.98,Loyalty Discount,$1.78,$ off for loyalty members
+2025-01-04,202,Orange,$1.15,BOGO,$0.57,"Buy one get one free, effective price per unit"
+2025-01-20,202,Pineapple,$4.99,None,N/A,"Standard pricing, no promotions"
+2025-01-22,201,Apple,$0.51,None,N/A,"Standard pricing, no promotions"
+2025-01-15,201,Pineapple,$0.81,BOGO,$0.41,"Buy one get one free, effective price per unit"
+2025-01-05,201,Apple,$3.23,Loyalty Discount,$2.91,$ off for loyalty members
+2025-01-26,200,Orange,$2.10,Loyalty Discount,$1.89,$ off for loyalty members
+2025-01-27,200,Banana,$0.98,BOGO,$0.49,"Buy one get one free, effective price per unit"
+2025-01-14,203,Avocado,$3.79,BOGO,$1.90,"Buy one get one free, effective price per unit"
+2025-01-21,200,Banana,$0.81,BOGO,$0.41,"Buy one get one free, effective price per unit"
+2025-01-09,201,Banana,$4.40,None,N/A,"Standard pricing, no promotions"
+2025-01-21,201,Apple,$2.66,Loyalty Discount,$2.39,$ off for loyalty members
+2025-01-03,202,Pineapple,$1.66,Loyalty Discount,$1.49,$ off for loyalty members
+2025-01-18,200,Banana,$2.86,None,N/A,"Standard pricing, no promotions"
+2025-01-26,201,Banana,$4.02,Loyalty Discount,$3.62,$ off for loyalty members
+2025-01-18,203,Pineapple,$2.18,None,N/A,"Standard pricing, no promotions"
+2025-01-25,203,Pineapple,$1.89,None,N/A,"Standard pricing, no promotions"
+2025-01-14,201,Avocado,$3.97,Loyalty Discount,$3.57,$ off for loyalty members
+2025-01-19,203,Banana,$3.33,None,N/A,"Standard pricing, no promotions"
+2025-01-10,203,Avocado,$4.33,App Discount,$2.60,40% off with app
+2025-01-20,202,Pineapple,$2.60,BOGO,$1.30,"Buy one get one free, effective price per unit"
+2025-01-16,201,Banana,$1.97,BOGO,$0.98,"Buy one get one free, effective price per unit"
+2025-01-18,203,Orange,$3.35,BOGO,$1.68,"Buy one get one free, effective price per unit"
+2025-01-29,200,Orange,$3.18,None,N/A,"Standard pricing, no promotions"
+2025-01-30,200,Banana,$1.93,None,N/A,"Standard pricing, no promotions"
+2025-01-30,200,Banana,$3.54,BOGO,$1.77,"Buy one get one free, effective price per unit"
+2025-01-26,203,Orange,$2.39,BOGO,$1.20,"Buy one get one free, effective price per unit"
+2025-01-18,200,Orange,$2.31,BOGO,$1.16,"Buy one get one free, effective price per unit"
+2025-01-14,201,Apple,$1.55,BOGO,$0.78,"Buy one get one free, effective price per unit"
+2025-01-21,203,Pineapple,$4.28,App Discount,$2.57,40% off with app
+2025-01-08,203,Apple,$3.80,Loyalty Discount,$3.42,$ off for loyalty members
+2025-01-23,202,Orange,$4.34,Loyalty Discount,$3.91,$ off for loyalty members
+2025-01-12,203,Apple,$1.47,None,N/A,"Standard pricing, no promotions"
+2025-01-21,202,Banana,$2.31,None,N/A,"Standard pricing, no promotions"
+2025-01-07,203,Orange,$2.49,None,N/A,"Standard pricing, no promotions"
+2025-01-28,200,Avocado,$2.12,Loyalty Discount,$1.91,$ off for loyalty members
+2025-01-08,201,Orange,$0.76,Loyalty Discount,$0.68,$ off for loyalty members
+2025-01-22,203,Apple,$2.12,App Discount,$1.27,40% off with app
+2025-01-01,202,Banana,$3.88,Loyalty Discount,$3.49,$ off for loyalty members
+2025-01-10,200,Banana,$2.58,BOGO,$1.29,"Buy one get one free, effective price per unit"
+2025-01-09,202,Banana,$2.97,BOGO,$1.49,"Buy one get one free, effective price per unit"
+2025-01-28,203,Orange,$1.02,Loyalty Discount,$0.92,$ off for loyalty members
+2025-01-24,203,Orange,$4.50,BOGO,$2.25,"Buy one get one free, effective price per unit"
+2025-01-05,203,Banana,$3.15,BOGO,$1.57,"Buy one get one free, effective price per unit"
+2025-01-01,200,Pineapple,$3.77,BOGO,$1.89,"Buy one get one free, effective price per unit"
+2025-01-15,202,Avocado,$0.92,App Discount,$0.55,40% off with app
+2025-01-12,202,Orange,$1.43,BOGO,$0.71,"Buy one get one free, effective price per unit"
+2025-01-26,203,Banana,$1.81,None,N/A,"Standard pricing, no promotions"
+2025-01-27,200,Avocado,$4.96,App Discount,$2.98,40% off with app
+2025-01-16,203,Avocado,$4.10,App Discount,$2.46,40% off with app
+2025-01-02,200,Banana,$2.40,Loyalty Discount,$2.16,$ off for loyalty members
+2025-01-25,200,Banana,$1.47,BOGO,$0.73,"Buy one get one free, effective price per unit"
+2025-01-27,200,Pineapple,$2.71,Loyalty Discount,$2.44,$ off for loyalty members
+2025-01-10,203,Avocado,$4.86,BOGO,$2.43,"Buy one get one free, effective price per unit"
+2025-01-11,202,Pineapple,$4.10,None,N/A,"Standard pricing, no promotions"
