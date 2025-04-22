@@ -17,14 +17,24 @@ storeItems = storeItems.withColumn("retail_price",clean_price_udf(storeItems["Re
 
 storeItemsWithPrice = storeItems.withColumn("price", func.when(storeItems["promo_price"].isNotNull(),storeItems["promo_price"]).otherwise(storeItems["retail_price"]))
 
-storeItems.createOrReplaceTempView("storeItems")
+sales = spark.read.option("header","true").option("inferSchema","true").csv("sales.csv")
+recipe = spark.read.option("header","true").option("inferSchema","true").csv("recipe.csv")
 
-recentItems = spark.sql("select * from storeItems where date > current_timestamp() - interval 3 month")
+# storeItems.createOrReplaceTempView("storeItems")
+# recentItems = spark.sql("select * from storeItems where date > current_timestamp() - interval 3 month")
 
+saleItems = sales.join(recipe,sales["Item"]==recipe["prepared_item"],how="left") \
+    .withColumn("total_units",func.when(recipe["units"].isNotNull(),sales["Quantity"]*recipe["units"]).otherwise(sales["Quantity"]))
 
+joined = saleItems.join(storeItemsWithPrice,(saleItems["Date"]==storeItems["Date"]) & \
+                        (saleItems["Store"]==storeItems["Store"]) & \
+                            (saleItems["Store"]==storeItems["Store"]) & \
+                                (saleItems["Item"]==storeItems["Item"]) & (saleItems["Promo Type"]==storeItems["Promo Type"]),how="left")
 
-storeItemsWithPrice.show()
-storeItems.printSchema()
+storeItems.show(100)
+saleItems.show(100)
+joined.show(100)
+
 
 
 
